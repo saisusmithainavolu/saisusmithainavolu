@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🎓 I'm a **MS Computer Science Graduate** at the **Villanova University**
 - 🔭 I’m currently working on **Full Stack Application Developement**
-- 🌱 I’m currently learning **Front End developement on React**
+- 🌱 I’m currently learning **Front End Developement on React**
 - 👯 I’m looking to collaborate on **Java Spring Projects**
 - 💬 Ask me about **Java, Spring Boot**
 
