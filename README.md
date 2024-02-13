@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Full Stack Application Developement**
 - 🌱 I’m currently learning **Front End developement on React**
 - 👯 I’m looking to collaborate on **Java Spring Projects**
-- 💬 Ask me about Java, Spring Boot
+- 💬 Ask me about **Java, Spring Boot**
 
 
   ## ✉️ Find me on:
