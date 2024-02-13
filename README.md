@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sai Susmitha Inavolu but you can call me Sai
+### Hi there 👋 I'm Sai Susmitha Inavolu but you can call me Sai 
 
 <!--
 **saisusmithainavolu/saisusmithainavolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
