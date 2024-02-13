@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 
   ## ✉️ Find me on:
 
+<div id="badges">
+  <a href="www.linkedin.com/in/sai-inavolu-646559217">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href="mailto:ssinavolu@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</div>
 
-<p align="center">
- <a href="www.linkedin.com/in/sai-inavolu-646559217" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:ssinavolu@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
 
 <br />
 
