@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🎓 I'm a **MS Computer Science Graduate** at the **Villanova University**
+- 🎓 I'm a **Software Engineer** at the **Tata Consultancy Services**
 - 🔭 I’m currently working on **Full Stack Application Developement**
 - 🌱 I’m currently learning **Front End Developement on React**
 - 👯 I’m looking to collaborate on **Java Spring Projects**
